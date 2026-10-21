@@ -1,20 +1,20 @@
 TO-DO:
--49 A, B
--50 Ax2, Bx2
--51 A, B
--52 A, B, C
--53 A, B, C, D
--54 A, B, C
--55 A, B
--56 x2
--57
--58 x2
--59
--60 x2
--61 x2
 -62 Ax3, Bx2, Cx3, Dx3, Ex2
+-61 x2
+-60 x2
+-59
+-58 x2
+-57
 
 DONE:
+56 x2
+55 A, B
+54 A, B, C
+53 A, B, C, D
+52 A, B, C
+51 A, B
+50 Ax2, Bx2
+49 A, B
 48 A, B
 47 A, B, C, D, E
 46 A, B, C, D
