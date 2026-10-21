@@ -1,6 +1,20 @@
 TO-DO:
-66 - 76
-63
+81 ???
+80
+79 x4
+78 x3
+76 x2
+75 A
+74 A,B, C
+73 A, B, C
+72 A, B, C, D, E, F, G, H, I
+71 A, B, C, D
+70 A, B, C
+69 
+68
+67 A, B, C, D
+66 A, B, C
+63 A, B, C, D, E, F, G, H, I, J
 
 DONE:
 -62 Ax3, Bx2, Cx3, Dx3, Ex2
