@@ -1,5 +1,4 @@
 TO-DO:
--48 A, B
 -49 A, B
 -50 Ax2, Bx2
 -51 A, B
@@ -16,6 +15,7 @@ TO-DO:
 -62 Ax3, Bx2, Cx3, Dx3, Ex2
 
 DONE:
+48 A, B
 47 A, B, C, D, E
 46 A, B, C, D
 45 A, B, C, D, E, F
