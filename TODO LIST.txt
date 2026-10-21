@@ -1,12 +1,14 @@
 TO-DO:
+66 - 76
+63
+
+DONE:
 -62 Ax3, Bx2, Cx3, Dx3, Ex2
 -61 x2
 -60 x2
 -59
 -58 x2
 -57
-
-DONE:
 56 x2
 55 A, B
 54 A, B, C
