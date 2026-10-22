@@ -1,13 +1,13 @@
 YET TO FIND:
 81 ???
 80
-79 x4
-78 x3
-76 x2
 
 READY TO MIX:
 
 DONE:
+79 x4
+78 x3
+76 x2
 75
 74 A, B, C
 73 A, B, C
