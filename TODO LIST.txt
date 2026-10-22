@@ -6,11 +6,11 @@ YET TO FIND:
 76 x2
 
 READY TO MIX:
-75 A
-74 A, B, C
-73 A, B, C
 
 DONE:
+75
+74 A, B, C
+73 A, B, C
 72 A, B, C, D, E, F, G, H, I
 71 A, B, C, D
 70 A, B, C
