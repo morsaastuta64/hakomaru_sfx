@@ -1,10 +1,10 @@
 YET TO FIND:
-81 ???
-80
+81 Ax10+3, Bx10+3, Cx10+3, Dx10+3, Ex10+3, Fx10+3, Gx10+3+1
 
 READY TO MIX:
 
 DONE:
+80
 79 x4
 78 x3
 76 x2
