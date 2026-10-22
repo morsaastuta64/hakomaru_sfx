@@ -1,11 +1,6 @@
 YET TO FIND:
 
 READY TO MIX:
-86
-85 A, Bx2, C
-84 x4
-83 x6
-82
 
 DONE:
 93 A, B, C
@@ -15,6 +10,11 @@ DONE:
 89
 88 Ax2, B
 87
+86
+85 A, Bx2, C
+84 x4
+83 x6
+82
 80
 79 x4
 78 x3
