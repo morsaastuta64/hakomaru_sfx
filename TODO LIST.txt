@@ -1,5 +1,16 @@
 YET TO FIND:
-81 Ax10+3, Bx10+3, Cx10+3, Dx10+3, Ex10+3, Fx10+3, Gx10+3+1
+93 A, B, C
+92 x2
+91 x3
+90 A, B, C
+89
+88 Ax2, B
+87
+86
+85 A, Bx2, C
+84 x4
+83 x6
+82
 
 READY TO MIX:
 
@@ -81,10 +92,11 @@ CHECK:
 39
 
 BLOCKED - LOOPABLE MUSIC:
-08 B
-09 C
-10
 11
+10
+09 C
+08 B
 
 BLOCKED - VOICE:
+81 socorro
 03
