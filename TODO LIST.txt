@@ -1,8 +1,26 @@
-YET TO FIND:
+SEARCH:
+r19
+r18
+r17
+r16
+r15
 
-READY TO MIX:
+MIX:
+81 A, B, C, D, E, F, G
 
 DONE:
+r21
+r20
+r14
+r13
+r09 x4
+r08
+r07
+r06
+r05
+r04
+r02
+r01
 93 A, B, C
 92 x2
 91 x3
@@ -92,11 +110,13 @@ CHECK:
 39
 
 BLOCKED - LOOPABLE MUSIC:
+r12
+r11
+r10
 11
 10
 09 C
 08 B
 
 BLOCKED - VOICE:
-81 socorro
 03
