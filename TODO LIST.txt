@@ -1,11 +1,8 @@
 LOOPABLE MUSIC (search unlooped):
-r12
 r11
-r10
-11
 10
-09 C
-08 B
+
+SELECTED:
 
 DONE:
 r21
@@ -17,6 +14,8 @@ r16
 r15
 r14
 r13
+r12
+r10
 r09 x4
 r08
 r07
@@ -104,8 +103,9 @@ r01
 14
 13
 12
-09 A, B
-08 A
+11 A, B
+09 A, B, C
+08 A, B
 07
 06
 05
