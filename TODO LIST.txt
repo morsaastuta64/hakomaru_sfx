@@ -1,16 +1,20 @@
-SEARCH:
+LOOPABLE MUSIC (search unlooped):
+r12
+r11
+r10
+11
+10
+09 C
+08 B
+
+DONE:
+r21
+r20
 r19
 r18
 r17
 r16
 r15
-
-MIX:
-81 A, B, C, D, E, F, G
-
-DONE:
-r21
-r20
 r14
 r13
 r09 x4
@@ -33,6 +37,7 @@ r01
 84 x4
 83 x6
 82
+81 x7
 80
 79 x4
 78 x3
@@ -108,15 +113,6 @@ r01
 
 CHECK:
 39
-
-BLOCKED - LOOPABLE MUSIC:
-r12
-r11
-r10
-11
-10
-09 C
-08 B
 
 BLOCKED - VOICE:
 03
