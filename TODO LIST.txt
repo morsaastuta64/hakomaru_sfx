@@ -1,6 +1,6 @@
-LOOPABLE MUSIC (search unlooped):
-r11
-10
+SEARCH VOICE:
+r03
+03
 
 SELECTED:
 
@@ -15,6 +15,7 @@ r15
 r14
 r13
 r12
+r11
 r10
 r09 x4
 r08
@@ -104,15 +105,10 @@ r01
 13
 12
 11 A, B
+10
 09 A, B, C
 08 A, B
 07
 06
 05
 04
-
-CHECK:
-39
-
-BLOCKED - VOICE:
-03
